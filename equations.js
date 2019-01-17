@@ -26,7 +26,7 @@ function equation(p, c) {
 // c = cout de production
 function derivative(p, c) { 
 
-  return [0, 0];
+  return [0, 0]; // [dP, dC]
 }
 //
 //
